@@ -1,4 +1,9 @@
+
 # Flappy guy
+
+<img width="1352" height="750" alt="2" src="https://github.com/user-attachments/assets/5f452b11-4969-49a3-bda4-589f749c737a" />
+
+<img width="1321" height="746" alt="1" src="https://github.com/user-attachments/assets/46782e88-f378-4cd5-b889-28472c109d51" />
 
 ## Описание
 
